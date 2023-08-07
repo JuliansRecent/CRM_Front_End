@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    gap: 6rem;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+}
+
+nav ul li:hover ul {
+    display: block;
+    background-color: white;
+    padding: .5rem 0;
+    gap: 0.5rem;
+    width: 8.6rem;
+}

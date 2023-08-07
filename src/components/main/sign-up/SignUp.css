@@ -1,0 +1,52 @@
+.container-fluid {
+    height: 100vh;
+}
+
+.trademark {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 1rem;
+    font-weight: 600;
+}
+
+.login-container {
+    width: 40%;
+    max-width: 500px;
+}
+
+.welcome-back-container {
+    width: 100%;
+    max-height: 100%;
+}
+
+.title-text-container {
+    margin-bottom: 2rem;
+}
+
+.get-started-text {
+    color: rgb(80, 80, 80);
+}
+
+.login-btn {
+    color: white;
+    background-color: #3da3a3;
+}
+
+.login-btn:hover {
+    color: black;
+    background-color: #3da3a3;
+}
+
+.forgot-password-text {
+    font-size: .8rem;
+    color: #329696;
+}
+
+.no-acct-text {
+    font-size: .8rem;
+}
+
+.sign-up-text {
+    color: #3da3a3;
+}
